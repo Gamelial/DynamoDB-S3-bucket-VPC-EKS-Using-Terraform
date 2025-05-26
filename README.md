@@ -2,7 +2,7 @@
 
 To create DynamoDB and S3 Bucket Using Terraform Backend Code
 
-Git clone https://github.com/iam-veeramalla/ultimate-devops-project-aws.git
+Git clone https://github.com/Gamelial/DevOps-Project-AWS.git
 
 Log in to AWS
 
